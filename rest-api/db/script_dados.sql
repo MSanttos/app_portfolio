@@ -1,0 +1,2 @@
+insert into portfolio(descricao, detalhes) values ('Desenvolvimento Web', 'Tecnologia JavaScript, NodeJs, Express e MySQL');
+insert into portfolio(descricao, detalhes) values ('Desenvolvimento APIS-RestFull', 'Tecnologia JavaScript, NodeJs, Express e MySQL');
